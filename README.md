@@ -95,16 +95,6 @@ output:
 14. Chart 5 — ROC curve
 15. Summary
 
-## Reproducing this
-
-```bash
-pip install pandas numpy matplotlib seaborn xgboost scikit-learn shap --break-system-packages
-jupyter nbconvert --to notebook --execute Wolffia_Complete_Code.ipynb
-```
-
-A single `RANDOM_STATE = 7` is fixed and reused for dataset generation, shuffling, and the
-train/test split, so re-running the notebook reproduces the exact numbers and figures above.
-
 ## Honest limitations (read before citing)
 
 - **This is a synthetic dataset.** Every class-conditional effect size — including
