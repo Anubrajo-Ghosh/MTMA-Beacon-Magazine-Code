@@ -1,0 +1,1 @@
+# MTIM-Beacon-Magazine-Code
