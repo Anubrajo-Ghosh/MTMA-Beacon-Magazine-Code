@@ -1,7 +1,10 @@
 # Decoding *Wolffia globosa* Biomass Yield from Phytomicrobiome Signatures Using Interpretable Machine Learning Models
 
 **Anubrajo Ghosh & Prabrisha Basu**
-Postgraduate and Research Department of Microbiology, St. Xavier's College (Autonomous), Kolkata
+
+Postgraduate and Research Department of Microbiology 
+
+St. Xavier's College (Autonomous), Kolkata
 
 ---
 
@@ -38,7 +41,8 @@ and *explainable* warning signal. See the paper for the full argument and citati
 | `3_feature_importance.png` | Figure 4 in the paper. |
 | `4_shap_summary.png` | Figure 5 in the paper. |
 | `5_roc_curve.png` | Figure 2 in the paper. |
-| `paper/` | The submitted manuscript (add your final PDF/DOCX here). |
+| `MTMA Beacon Magazine Article.pdf` | The submitted manuscript in .pdf format |
+| `MTMA Beacon Magazine Article.docx` | The submitted manuscript in .docx format |
 
 ## The pipeline, in one paragraph
 
